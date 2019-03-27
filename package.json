@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huseyinbabal/kubernetes-node-example.git"
+    "url": "git+https://github.com/akyole/kubernetes-node-example.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/huseyinbabal/kubernetes-node-example/issues"
+    "url": "https://github.com/akyole/kubernetes-node-example/issues"
   },
-  "homepage": "https://github.com/huseyinbabal/kubernetes-node-example#readme"
+  "homepage": "https://github.com/akyole/kubernetes-node-example#readme"
 }
